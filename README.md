@@ -11,7 +11,7 @@ cvxpy
 ## Navigation
 
 - [Implementation for Explicable Reward Design for Reinforcement Learning Agents](#)
-    - [Code: Main Paper](https://github.com/adishs/neurips2021_explicable-reward-design_code/code-main-paper)
+    - [Code: Main Paper](https://github.com/adishs/neurips2021_explicable-reward-design_code/tree/master/code-main-paper)
         - [ROOMSNAVENV](https://github.com/adishs/shaping-poisoning_code-only_adishs-github/tree/master/neurips21_cameraready_code/code-main-paper/code_RoomsNavEnv)
         - [LINEKEYNAVENV](https://github.com/adishs/shaping-poisoning_code-only_adishs-github/tree/master/neurips21_cameraready_code/code-main-paper/code_LineKeyNavEnv)
     - [Cede: Appendix](https://github.com/adishs/shaping-poisoning_code-only_adishs-github/tree/master/neurips21_cameraready_code/code-supp)
