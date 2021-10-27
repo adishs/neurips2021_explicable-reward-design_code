@@ -14,7 +14,7 @@ cvxpy
     - [Code: Main Paper](https://github.com/adishs/neurips2021_explicable-reward-design_code/tree/master/code-main-paper)
         - [ROOMSNAVENV](https://github.com/adishs/neurips2021_explicable-reward-design_code/tree/master/code-main-paper/code_RoomsNavEnv)
         - [LINEKEYNAVENV](https://github.com/adishs/neurips2021_explicable-reward-design_code/tree/master/code-main-paper/code_LineKeyNavEnv)
-    - [Cede: Appendix](https://github.com/adishs/neurips2021_explicable-reward-design_code/tree/master/code-supp)
+    - [Code: Appendix](https://github.com/adishs/neurips2021_explicable-reward-design_code/tree/master/code-supp)
         - [ROOMSNAVENV: Vary H Set](https://github.com/adishs/neurips2021_explicable-reward-design_code/tree/master/code-supp/vary_H)
         - [ROOMSNAVENV: Vary IR](https://github.com/adishs/neurips2021_explicable-reward-design_code/tree/master/code-supp/vary_IR)
         - [LINEKEYNAVENV: Vary Agent Discrete](https://github.com/adishs/neurips2021_explicable-reward-design_code/tree/master/code-supp/vary_agent_discrete)
