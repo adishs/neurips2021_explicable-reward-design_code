@@ -17,7 +17,7 @@ python linekey_run.py --algorithm=<algorithmName> --B=<budget>
 ```
 where the argument algorithmName is one of the following: orig, pbrs, and exprd.
 
-For the algorithm exprd, the parameter --B=<budget> denotes the budget, i.e., the number of states to be selected for designing the reward function. Set a small number for faster execution.
+For the algorithm exprd, the parameter `--B=<budget>` denotes the budget, i.e., the number of states to be selected for designing the reward function. Set a small number for faster execution.
 
 As a concrete example, one can run the following scripts to get result:
 ```
@@ -34,6 +34,8 @@ python linekey_run.py --algorithm=pbrs --B=1
 ```
 python run_linekey_plot_convergence.py --n_average=<numberOfRuns>
 ```
+The parameter `--n_average=<numberOfRunsToAverage>` denotes the number of the runs to be averaged.
+
 As a concrete example, one can run the following scripts to get result:
 ```
 python run_linekey_plot_convergence.py --n_average=5

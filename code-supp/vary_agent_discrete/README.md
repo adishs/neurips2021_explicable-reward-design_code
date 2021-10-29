@@ -16,6 +16,8 @@ To get results, you will need to run the following scripts:
 ```
 python run_linekey_plot_convergence.py --n_average=<numberOfRuns>
 ```
+The parameter `--n_average=<numberOfRunsToAverage>` denotes the number of the runs to be averaged.
+
 As a concrete example, one can run the following scripts to get result:
 ```
 python run_linekey_plot_convergence.py --n_average=5

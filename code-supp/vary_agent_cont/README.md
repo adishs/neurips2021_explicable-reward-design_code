@@ -12,10 +12,12 @@ cvxpy
 To get results, you will need to run the following scripts:
 
 
-### For the visualization of the Q-learning convergence plots for LineKeyNavEnv run:
+### For the visualization of the Reinforce algorithm convergence plots for LineKeyNavEnv run:
 ```
 python run_linekey_plot_convergence.py --n_average=<numberOfRuns>
 ```
+The parameter `--n_average=<numberOfRunsToAverage>` denotes the number of the runs to be averaged.
+
 As a concrete example, one can run the following scripts to get result:
 ```
 python run_linekey_plot_convergence.py --n_average=5
