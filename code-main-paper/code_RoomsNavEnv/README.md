@@ -15,7 +15,7 @@ To get results, you will need to run the following scripts:
 ```
 python fourroom_run.py --algorithm=<algorithmName> --B=<budget>
 ```
-where the argument algorithmName is one of the following: orig, pbrs, and exprd.
+where the parameter `--algorithm=<algorithmName>` is one of the following: orig, pbrs, and exprd.
 
 For the algorithm exprd, the parameter `--B=<budget>` denotes the budget, i.e., the number of states to be selected for designing the reward function. Set a small number for faster execution.
 
@@ -37,7 +37,7 @@ python run_fourroom_plot_convergence.py --n_average=<numberOfRunsToAverage>
 ```
 The parameter `--n_average=<numberOfRunsToAverage>` denotes the number of the runs to be averaged.
 
-As a concrete example, one can run the following scripts to get result:
+As a concrete example, one can run the following script to get result:
 ```
 python run_fourroom_plot_convergence.py --n_average=5
 ```
