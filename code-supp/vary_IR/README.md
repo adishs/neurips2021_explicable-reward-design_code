@@ -17,7 +17,7 @@ python run_fourroom_plot_convergence.py --figure=<figureName> --n_average=<numbe
 ```
 The first parameter ``--figure=<figureName>`` is one of the following:  9.a, 9.b, 9.c, 9.d, 9.e, and 9.f.
 
-The second parameter `--n_average=<numberOfRunsToAverage>` denotes the number of the runs to be averaged for plotting.
+The second parameter `--n_average=<numberOfRunsToAverage>` denotes the number of the runs to be averaged.
 
 As a concrete example, one can run the following script to get result:
 ```
